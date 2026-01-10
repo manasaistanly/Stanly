@@ -40,7 +40,7 @@ export const projects = [
     description: "Architected a full-stack AI-driven analytics platform empowering rural households to optimize utility consumption. Integrated LSTM-based time-series forecasting to predict electricity and water usage trends, providing actionable insights for cost reduction and resource conservation.",
     techStack: ["React", "Python (FastAPI)", "TensorFlow", "PostgreSQL"],
     github: "https://github.com/manasaistanly",
-    demo: "#",
+    demo: "https://rural-utility-analyzer.vercel.app/login",
     features: [
       "AI-driven usage forecasting (LSTM)",
       "Interactive cost-analysis dashboards",
@@ -60,7 +60,7 @@ export const projects = [
     description: "Engineered a secure, role-based workflow automation system to digitize administrative processes. Reduced document turnaround time by ~70% through multi-level automated approvals, secure verifiable certificate generation, and integrated fee management.",
     techStack: ["Next.js", "Node.js", "Prisma", "PostgreSQL"],
     github: "https://github.com/manasaistanly",
-    demo: "#",
+    demo: "https://campus-approval-system.vercel.app/",
     features: [
       "Multi-level role-based access control (RBAC)",
       "Auto-generated verifiable certificates",
